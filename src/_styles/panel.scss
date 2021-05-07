@@ -1,0 +1,12 @@
+@import "./variables";
+.container-panel {
+    width: 70vw;
+    height: 40vh;
+    background-color: $light-coral;
+    position: relative;
+    // &>* {
+    //     @include fontSize;
+    //     @include randColor;
+    //     @include randPosition;
+    // }
+}

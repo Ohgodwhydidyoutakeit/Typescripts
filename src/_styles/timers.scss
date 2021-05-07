@@ -1,0 +1,27 @@
+@import "./variables";
+.time-format {
+    font-family: "Roboto", sans-serif;
+    color: $linen;
+}
+
+.timer {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.time {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0.5em 0.5em 0 0;
+}
+
+.time-format-size-large {
+    font-size: 4em!important;
+}
+
+.time-format-size-small {
+    font-size: 1.5em!important;
+}

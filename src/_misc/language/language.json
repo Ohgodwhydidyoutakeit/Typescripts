@@ -1,0 +1,12 @@
+{
+    "PL": {
+        "title": "TYPESCRIPTS",
+        "startText": "Zacznij pisać by zacząć grę",
+        "inputPlaceholder": "Pisz tutaj..."
+    },
+    "EN": {
+        "title": "TYPESCRIPTS",
+        "startText": "Start typing to start the game",
+        "inputPlaceholder": "Type here..."
+    }
+}

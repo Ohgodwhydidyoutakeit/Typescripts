@@ -1,0 +1,44 @@
+$maximum-yellow-red: #f6bd60ff;
+$linen: #f7ede2ff;
+$baby-pink: #f5cac3ff;
+$morning-blue: #84a59dff;
+$light-coral: #f28482ff;
+$white: #fefefe;
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+// @mixin fontSize {
+//     @for $i from 1 through 4 {
+//         &:nth-child(#{$i}) {
+//             font-size: #{random(50) / 1.2+20}px;
+//         }
+//     }
+// }
+// $colors: ( #f72585,
+// #b5179e,
+// #7209b7,
+// #560bad,
+// #480ca8,
+// #3a0ca3,
+// #3f37c9,
+// #4361ee,
+// #4895ef,
+// #4cc9f0,
+// #f72585,
+// #7209b7,
+// #3a0ca3,
+// #4361ee,
+// #4cc9f0);
+// @mixin randColor {
+//     @for $i from 2 to 6 {
+//         &:nth-child(#{$i}) {
+//             color: nth($colors, random(length($colors)));
+//         }
+//     }
+// }
+// @mixin randPosition {
+//     @for $i from 2 to 6 {
+//         &:nth-child(#{$i}) {
+//             top: #{random(10000)};
+//             left: #{random(50)}vw;
+//         }
+//     }
+// }
